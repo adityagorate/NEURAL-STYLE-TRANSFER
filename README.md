@@ -122,4 +122,6 @@ output/styled.png
 
 It is also displayed using Matplotlib.
 
+<img width="635" height="547" alt="Image" src="https://github.com/user-attachments/assets/e810c931-d615-4d56-8050-f0c45ccfe3a2" />
+
 
